@@ -10,3 +10,7 @@ react, react-dom => npm install react react-dom
 parcel => npm install -D parcel
 
 babel => npm install -D @babel/core @babel/preset-react
+
+======
+
+Run in terminal => npm run dev
